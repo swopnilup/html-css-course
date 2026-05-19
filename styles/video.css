@@ -21,15 +21,15 @@
         font-size: 14px;
         font-weight: 500;
         line-height: 20px;
-        margin-bottom: 12px;
+        margin-bottom: 5px;
       }
       .thumbnail-row{
-        margin-bottom: 12px;
+        margin-bottom: 10px;
         position: relative;
       }
       .video-aurthor,
       .video-stats{
-        font-size: 12px;
+        font-size: 15px;
         color: rgb(96, 96, 96);
       }
       .video-aurthor{
