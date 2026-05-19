@@ -1,4 +1,5 @@
  
+/* This file contains the styles for the video section of the YouTube clone website. */
       .thumbnail{
         width: 100%;
         border-radius: 8px;
@@ -40,6 +41,7 @@
         grid-template-columns: 1fr 1fr 1fr;
         column-gap: 16px;
         row-gap: 40px;
+
       }
       @media
         (max-width: 790px){
@@ -56,14 +58,10 @@
         
       
       .video-time{
-        font-family: Roboto, Arial;
         font-size: 15px;
         font-weight: 500;
         background-color: rgba(0, 0, 0, 0.8);
-        padding-left: 3px;
-        padding-right: 3px;
-        padding-bottom: 4px;
-        padding-top: 4px;
+        padding: 4px 3px;
         color: white;
         position: absolute;
         bottom: 8px;

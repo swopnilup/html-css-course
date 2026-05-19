@@ -19,5 +19,7 @@ CSS3 - Styling, animations, responsive design
     Swopnil
     GitHub: @swopnilup
 
+    ALL CREDITS GOES TO @supersimpledev FOR THIS HULL HTML AND CSS COURSE WITH PROJECT
+
 
 

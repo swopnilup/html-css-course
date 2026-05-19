@@ -1,10 +1,12 @@
+ /* This file contains the general styles for the YouTube clone website. */
  p{
-   font-family: Roboto, Arial;
+   
    margin-top: 0;
    margin-bottom: 0;
   }
 
 body{
+   font-family: Roboto, Arial;
    margin: 0;
    padding-top: 98px;
    padding-left: 96px;
